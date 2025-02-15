@@ -1,1 +1,7 @@
 AIAssist
+*.mkv
+*.log
+*.wav
+*.mp4
+Ubuntu/test.py
+Ubuntu/*.sh

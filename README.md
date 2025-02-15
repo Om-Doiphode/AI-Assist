@@ -11,6 +11,6 @@ AI Assist is a project aimed at creating an intelligent assistant for Ubuntu sim
 ## Demo
 
 
-1. [Summarizer](assets/summarizer.mp4)
-2. [System Tweaker](assets/Tweak.mp4)
-3. [RAG](assets/RAG.mp4)
+1. [Summarizer](https://res.cloudinary.com/dkgjezoob/video/upload/v1739637243/summarizer.mp4)
+2. [System Tweaker](https://res.cloudinary.com/dkgjezoob/video/upload/v1739637288/Tweak.mp4)
+3. [RAG](https://res.cloudinary.com/dkgjezoob/video/upload/v1739637178/RAG.mp4)
